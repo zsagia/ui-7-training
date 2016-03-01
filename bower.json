@@ -1,0 +1,21 @@
+{
+  "name": "ui-7-training",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zsagia <zsolt.szabo@liferay.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}
